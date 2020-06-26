@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : path of avatar image, e.g. "C:\Users\chomj\조민재님_.jpg"
+  avatar           :  path of avatar image, e.g. "C:/Users/chomj/조민재님_.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
