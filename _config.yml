@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : path of avatar image, e.g. "C:\Users\chomj\조민재님_.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:chomjj@gmail.com"
+      url: "mailto:chomjj12@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
