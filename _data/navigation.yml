@@ -3,9 +3,9 @@ main:
   - title: "내 블로그"
     url: https://cho-mj15.github.io
   - title: "About"
-    url: https://cho-mj15.github.io/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
